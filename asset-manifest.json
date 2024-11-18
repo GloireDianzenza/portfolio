@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.4d033aea.css",
+    "main.css": "/portfolio/static/css/main.f5b54590.css",
     "main.js": "/portfolio/static/js/main.6503de35.js",
     "static/js/453.d838fac2.chunk.js": "/portfolio/static/js/453.d838fac2.chunk.js",
     "static/media/ui-ux-representations-with-laptop.jpg": "/portfolio/static/media/ui-ux-representations-with-laptop.a7e591ffaba057fc60e3.jpg",
@@ -16,12 +16,12 @@
     "static/media/web-development-4202909_640.png": "/portfolio/static/media/web-development-4202909_640.796be03f82eb23707d0e.png",
     "static/media/boxicons.woff2": "/portfolio/static/media/boxicons.df635aaf04cd75132f62.woff2",
     "index.html": "/portfolio/index.html",
-    "main.4d033aea.css.map": "/portfolio/static/css/main.4d033aea.css.map",
+    "main.f5b54590.css.map": "/portfolio/static/css/main.f5b54590.css.map",
     "main.6503de35.js.map": "/portfolio/static/js/main.6503de35.js.map",
     "453.d838fac2.chunk.js.map": "/portfolio/static/js/453.d838fac2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d033aea.css",
+    "static/css/main.f5b54590.css",
     "static/js/main.6503de35.js"
   ]
 }
