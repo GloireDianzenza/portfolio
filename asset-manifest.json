@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.4d033aea.css",
-    "main.js": "/portfolio/static/js/main.70020a09.js",
+    "main.js": "/portfolio/static/js/main.6503de35.js",
     "static/js/453.d838fac2.chunk.js": "/portfolio/static/js/453.d838fac2.chunk.js",
     "static/media/ui-ux-representations-with-laptop.jpg": "/portfolio/static/media/ui-ux-representations-with-laptop.a7e591ffaba057fc60e3.jpg",
     "static/media/still-life-red-thread-connection.jpg": "/portfolio/static/media/still-life-red-thread-connection.71918d52c08943175f18.jpg",
     "static/media/boxicons.svg": "/portfolio/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
+    "static/media/Scarabee.jpeg": "/portfolio/static/media/Scarabee.b392cfe834c30dd6bfb6.jpeg",
     "static/media/Capture d’écran_14-11-2024_133349_127.0.0.1.jpeg": "/portfolio/static/media/Capture d’écran_14-11-2024_133349_127.0.0.1.f8b132cdfb2291c7c0b3.jpeg",
-    "static/media/Scarabee.jpeg": "/portfolio/static/media/Scarabee.2eb7c7a353089c71ddf3.jpeg",
     "static/media/Social.jpeg": "/portfolio/static/media/Social.81b6e8e5b00465d2c171.jpeg",
     "static/media/EJB.jpeg": "/portfolio/static/media/EJB.0e337093d68831fd02f7.jpeg",
     "static/media/boxicons.eot": "/portfolio/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
@@ -17,11 +17,11 @@
     "static/media/boxicons.woff2": "/portfolio/static/media/boxicons.df635aaf04cd75132f62.woff2",
     "index.html": "/portfolio/index.html",
     "main.4d033aea.css.map": "/portfolio/static/css/main.4d033aea.css.map",
-    "main.70020a09.js.map": "/portfolio/static/js/main.70020a09.js.map",
+    "main.6503de35.js.map": "/portfolio/static/js/main.6503de35.js.map",
     "453.d838fac2.chunk.js.map": "/portfolio/static/js/453.d838fac2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4d033aea.css",
-    "static/js/main.70020a09.js"
+    "static/js/main.6503de35.js"
   ]
 }
