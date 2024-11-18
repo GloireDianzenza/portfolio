@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.4d033aea.css",
+    "main.js": "/portfolio/static/js/main.70020a09.js",
+    "static/js/453.d838fac2.chunk.js": "/portfolio/static/js/453.d838fac2.chunk.js",
+    "static/media/ui-ux-representations-with-laptop.jpg": "/portfolio/static/media/ui-ux-representations-with-laptop.a7e591ffaba057fc60e3.jpg",
+    "static/media/still-life-red-thread-connection.jpg": "/portfolio/static/media/still-life-red-thread-connection.71918d52c08943175f18.jpg",
+    "static/media/boxicons.svg": "/portfolio/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
+    "static/media/Capture d’écran_14-11-2024_133349_127.0.0.1.jpeg": "/portfolio/static/media/Capture d’écran_14-11-2024_133349_127.0.0.1.f8b132cdfb2291c7c0b3.jpeg",
+    "static/media/Scarabee.jpeg": "/portfolio/static/media/Scarabee.2eb7c7a353089c71ddf3.jpeg",
+    "static/media/Social.jpeg": "/portfolio/static/media/Social.81b6e8e5b00465d2c171.jpeg",
+    "static/media/EJB.jpeg": "/portfolio/static/media/EJB.0e337093d68831fd02f7.jpeg",
+    "static/media/boxicons.eot": "/portfolio/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
+    "static/media/boxicons.woff": "/portfolio/static/media/boxicons.d12afc36557395143e4b.woff",
+    "static/media/boxicons.ttf": "/portfolio/static/media/boxicons.db9ddb1898dbd76badca.ttf",
+    "static/media/web-development-4202909_640.png": "/portfolio/static/media/web-development-4202909_640.796be03f82eb23707d0e.png",
+    "static/media/boxicons.woff2": "/portfolio/static/media/boxicons.df635aaf04cd75132f62.woff2",
+    "index.html": "/portfolio/index.html",
+    "main.4d033aea.css.map": "/portfolio/static/css/main.4d033aea.css.map",
+    "main.70020a09.js.map": "/portfolio/static/js/main.70020a09.js.map",
+    "453.d838fac2.chunk.js.map": "/portfolio/static/js/453.d838fac2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d033aea.css",
+    "static/js/main.70020a09.js"
+  ]
+}
