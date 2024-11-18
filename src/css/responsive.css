@@ -1,0 +1,61 @@
+@media screen and (max-width:400px){
+    header a{
+        transform: scale(1) !important;
+
+        &.active{
+            font-weight: bolder;
+        }
+    }
+}
+
+@media screen and (max-width:950px){
+    main form .form-group{
+        flex-direction: column;
+    }
+}
+
+
+
+@media screen and (max-width:550px){
+    main form{
+        width: 100% !important;
+        padding: 0 15px !important;
+    }
+}
+
+@media screen and (max-width:700px){
+    .project h2{
+        font-size: 2.2rem !important;
+    }
+}
+
+@media screen and (max-width:500px){
+    header a{
+        font-size: 0.85rem;
+    }
+
+    h1{
+        font-size: 2rem !important;
+    }
+
+    h2{
+        font-size: 1.5rem !important;
+    }
+    
+    .services h2{
+        font-size: 1rem !important;
+    }
+
+    .project h2{
+        /* font-size: 1.75rem !important; */
+    }
+
+    footer input{
+        max-width: 75%;
+    }
+
+    footer{
+        flex-direction: column !important;
+        padding-top: 20px !important;
+    }
+}
